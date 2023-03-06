@@ -1,0 +1,70 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    font-family: 'roboto', arial;
+    background-color: rgb(29, 181, 227); 
+}
+
+html{
+    text-align: center;
+}
+.topo{
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    padding-top: 40px;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    padding-top: 40px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+P2{
+    text-align: center;
+    color: white;    
+    font-size: 40px;
+}
+
+button{
+    align-items: center;
+    padding: 10px 30px;
+    background-color:rgb(55, 55, 220);
+    color: wheat; 
+    border-radius: 3px;
+    font-size: 40px;
+} 
+
+.iconeFB{
+    align-items: center;
+    height: 80px;
+    width: 80px;
+}
+
+.iconeInsta{
+align-items: center;
+height: 80px;
+width: 80px;
+}
+
+.iconeZap{
+align-items: center;
+height: 80px;
+width: 80px;
+}
